@@ -1,0 +1,16 @@
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ExamPracticing.exe
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ExamPracticing.deps.json
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ExamPracticing.runtimeconfig.json
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ExamPracticing.runtimeconfig.dev.json
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ExamPracticing.dll
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ref\ExamPracticing.dll
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\bin\Debug\net5.0\ExamPracticing.pdb
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.csprojAssemblyReference.cache
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.AssemblyInfoInputs.cache
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.AssemblyInfo.cs
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.csproj.CoreCompileInputs.cache
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.dll
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ref\ExamPracticing.dll
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.pdb
+C:\Users\narut\Desktop\C#DoodDoo\ExamPracticing_Programming\ExamPracticing\ExamPracticing\obj\Debug\net5.0\ExamPracticing.genruntimeconfig.cache
